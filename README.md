@@ -1,1 +1,1 @@
-# Shift-Hiring_Java
+# This is an implementation of an aglorithm that determines the least cost of hiring employees across a number of days where each day i has a cost for hiring an employee for just that day i, day i and day i+1, and days i, i+1, and i+2.
